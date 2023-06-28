@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumit-lvrz
 - 👀 I’m interested in interesting stuff
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on - no
 - 📫 How to reach me - no
 
 <!---
