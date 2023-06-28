@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sumit-lvrz
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning cypress
-- 💞️ I’m looking to collaborate on testing projects
-- 📫 How to reach me - not possible
+- 👀 I’m interested in interesting stuff
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on - no
+- 📫 How to reach me - no
 
 <!---
 sumit-lvrz/sumit-lvrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
